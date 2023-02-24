@@ -11,10 +11,10 @@ require (
 	k8s.io/apimachinery v0.25.5
 	k8s.io/client-go v0.25.5
 	knative.dev/caching v0.0.0-20221209014017-0ea6b3f92fdc
-	knative.dev/hack v0.0.0-20221209013717-b9801b4f5a4d
-	knative.dev/net-istio v0.35.1-0.20221129130114-345dc1bde289
-	knative.dev/networking v0.0.0-20221209014918-383bb2f0a5a8
-	knative.dev/pkg v0.0.0-20221209013515-911b435f02a1
+	knative.dev/hack v0.0.0-20230113013652-c7cfcb062de9
+	knative.dev/net-istio v0.36.0
+	knative.dev/networking v0.0.0-20230123233838-db2bcbea2560
+	knative.dev/pkg v0.0.0-20230117181655-247510c00e9d
 	knative.dev/serving v0.35.3
 )
 
@@ -126,7 +126,7 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	istio.io/client-go v1.16.0 // indirect
+	istio.io/client-go v1.16.1 // indirect
 	k8s.io/apiextensions-apiserver v0.25.4 // indirect
 	k8s.io/code-generator v0.25.4 // indirect
 	k8s.io/gengo v0.0.0-20221011193443-fad74ee6edd9 // indirect
